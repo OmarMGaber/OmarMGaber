@@ -1,7 +1,7 @@
 # [Omar Muhammad]
 
 ## 👋 Hi there!
-
+<div  align="center">
 <a href="https://www.linkedin.com/in/omarmgaber/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -11,7 +11,7 @@
 <a href="https://twitter.com/OmarMGaber37" target="_blank">
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
 </a>
-<a href="https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1" target="_blank">
+<a href="https://www.youtube.com/channel/UCUG7NhDzCM2ATpRl8gB2W0w?sub_confirmation=1" target="_blank">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=soical&logo=youtube&logoColor=white" alt="YouTube">
 </a>
 <a href="https://discordapp.com/users/374999479851548672" target="_blank">
@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
+</div>
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=red)
