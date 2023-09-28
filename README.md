@@ -2,6 +2,30 @@
 
 ## 👋 Hi there!
 
+<a href="https://www.linkedin.com/in/omarmgaber/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.facebook.com/omarfb" target="_blank">
+	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://twitter.com/OmarMGaber37" target="_blank">
+	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
+</a>
+<a href="https://www.youtube.com/user/MRadwanMSF?sub_confirmation=1" target="_blank">
+	<img src="https://img.shields.io/badge/YouTube-FF0000?style=soical&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<a href="https://discordapp.com/users/374999479851548672" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://codeforces.com/profile/OmarMGaber" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-%23FF8000.svg?&style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces">
+</a>
+<a href="https://leetcode.com/OmarMGaber" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
+<br><br>
+
 ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=red)
 
 ### 📊 GitHub Stats
