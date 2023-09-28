@@ -2,7 +2,7 @@
 
 ## 👋 Hi there!
 
-![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=green)
+![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=red)
 
 ### 📊 GitHub Stats
 
