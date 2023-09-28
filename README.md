@@ -32,20 +32,19 @@
 ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=5391FE)
 
 </div>
-<br><br>
 	
 <details align="center">
 	
-### 📊 GitHub Stats
+#### 📊 GitHub Stats
 	
 <table border="0" align="center">
 <tr border="0">
-<td width="70%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=OmarMGaber&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555" width="400"></img><br>
+<td width="60%" align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=OmarMGaber&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555" width="600"></img><br>
 
-<td width="50%" align="center">
+<td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" width="400"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" width="600"/>
   
   </td>
 </tr>
