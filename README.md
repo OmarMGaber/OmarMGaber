@@ -26,10 +26,6 @@
 </a>
 <a href="https://leetcode.com/OmarMGaber" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
-</a>
-<a href="https://icpc.global/ICPCID/B7RRK1DUCG3T" target="_blank">
-    <img src="./logos/icpc logo.png" alt="ICPC_ID">
-</a>
 <br>
 	
 ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=5391FE)
