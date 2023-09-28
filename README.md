@@ -4,6 +4,7 @@
     「 Computer Science Student @ 🌊 <b>Alexandria University</b> 」<br>
   </samp>
 </p>
+
 <div  align="center">
 <a href="https://www.linkedin.com/in/omarmgaber/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,7 +28,9 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 <br>
+	
 ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=red)
+
 </div>
 <br><br>
 	
