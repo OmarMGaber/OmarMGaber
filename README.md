@@ -1,6 +1,6 @@
 <h2 align="center"><samp>Hello There! I am <b>Omar Muahmmad</b></samp></h2>
 <p align="center"><br>
-  <samp>
+  <samp text-size="1000px">
     「 Computer Science Student @ 🌊 <b>Alexandria University</b> 」<br>
   </samp>
 </p>
@@ -44,7 +44,7 @@
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" width="600"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook" width="80%" height="65%"/>
   
   </td>
 </tr>
