@@ -41,14 +41,21 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=OmarMGaber&title_color=FF0000&text_color=FFFFFF&show_icons=true&icon_color=FF0000&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+	<img src="https://github-readme-stats.vercel.app/api?username=OmarMGaber&title_color=FF0000&text_color=FFFFFF&show_icons=true&icon_color=FF0000&include_all_commits=true&count_private=true&theme=light" alt="GitHub Stats" height="200" />
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OmarMGaber&theme=light&hide_border=true&no-bg=true&no-frame=true&langs_count=10&hide=jupyter%20notebook"/>
   
   </td>
 </tr>
 </table>
 </details>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════<br>
+    From <a href="https://github.com/kevinjycui/kevinjycui">kevinjycui</a>
+  </p>
+</samp>
