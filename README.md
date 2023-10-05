@@ -12,9 +12,9 @@
 <a href="https://www.facebook.com/omarfb" target="blank">
 	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
-<a href="https://twitter.com/OmarMGaber37" target="blank">
+<!-- <a href="https://twitter.com/OmarMGaber37" target="blank">
 	<img src="https://img.shields.io/badge/twitter-blue?&style=flat-square&logo=twitter&logoColor=white" alt="twitter">
-</a>
+</a> -->
 <a href="https://www.youtube.com/channel/UCUG7NhDzCM2ATpRl8gB2W0w?sub_confirmation=1" target="_blank">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=soical&logo=youtube&logoColor=white" alt="YouTube">
 </a>
