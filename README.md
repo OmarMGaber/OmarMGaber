@@ -29,10 +29,10 @@
 </a>
 <br>
 	
-![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=5391FE)
+<!-- ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=5391FE) -->
 
 </div>
-	
+
 <details align="center">
 	
 #### 📊 GitHub Stats
