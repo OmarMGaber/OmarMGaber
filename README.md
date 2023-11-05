@@ -27,9 +27,7 @@
 <a href="https://leetcode.com/OmarMGaber" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
-<a href="https://www.quora.com/profile/Omar-Muhammad-120" target="blank">
-    <img src="https://img.shields.io/badge/Quora-#B92B27.svg?&style=flat-square&logo=quora&logoColor=white" alt="Quora">
-</a>
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Omar-Muhammad-120/)
 <br>
 	
 <!-- ![](https://komarev.com/ghpvc/?username=OmarMGaber&style=flat-square&color=5391FE) -->
